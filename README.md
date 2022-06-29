@@ -1,12 +1,12 @@
 <h2>Music Listening Physiological Data (Cardiac and Respiratory Traces)</h2>
 <h2>OpenFMRI Study Forrest dataset, task001 Forrest Gump Audio Movie in German (8 Segments)</h2>
 <h2>Michael A. Casey - Dartmouth College, Data and Code: 2013 - 2019</h2>
-<h2>The Physiological Data:</h2>
 
 <h2>Instructions</h2>
 Place the files in this repository in studyforrest/forrest_gump <h2>
 
-<h2>description</h2>
+<h2>The Physiological Data:</h2>
+
 This dataset contains files for 20 subjects, 8 runs per subject. This folder contains only the physiological data.
 
 Location sub[ID]/physio/task001_run00[1-8]/physio.txt.gz 
