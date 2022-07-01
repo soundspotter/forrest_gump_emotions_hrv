@@ -1,4 +1,4 @@
-<h2>Music Listening Physiological Data (Cardiac and Respiratory Traces)</h2>
+<h2>Movie Listening Physiological Data (Cardiac and Respiratory Traces)</h2>
 <h2>OpenFMRI Study Forrest dataset, task001 Forrest Gump Audio Movie in German (8 Segments)</h2>
 <h2>Michael A. Casey - Dartmouth College, Data and Code: 2013 - 2019</h2>
 
